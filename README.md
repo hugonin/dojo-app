@@ -1,6 +1,6 @@
 # Dojo App
 
-> Dojo App is a project management website built with React and Firebas. It allows users to collaborate on projects, chat with each other 
+> Dojo App is a project management website built with React and Firebase. It allows users to collaborate on projects, chat with each other 
 
 ## Table of contents
 
