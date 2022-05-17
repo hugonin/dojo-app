@@ -52,10 +52,6 @@ In the project directory, you can run:
 docker-compose up -d
 
 
-## Inspiration
-
-Project based on Build Web Apps with React & Firebase by The Net Ninja 
-
 ## Contact
 
 Created by [@hugonin](https://github.com/hugonin) - feel free to contact me!
