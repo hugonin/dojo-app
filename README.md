@@ -49,7 +49,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 In the project directory, you can run:
 
 ## create and run container locally
-docker-compose up -d
+``docker-compose up -d``
 
 
 ## Contact
