@@ -42,7 +42,7 @@ Project is: _in progress_
 ## Available Scripts
 
 ## create and run container locally
-docker-compose -f docker-compose-local.yml up -d
+``docker-compose -f docker-compose-local.yml up -d``
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
